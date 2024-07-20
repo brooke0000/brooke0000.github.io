@@ -1,0 +1,17 @@
+technical:
+- title: css
+  level: beginner
+- title: html
+  level: beginner
+- title: javascript
+  level: intermediate
+- title: C#
+  level: intermediate
+- title: C++
+  level: beginner
+
+soft:
+- title: writing
+  level: beginner
+- title: japanese
+  level: beginner
