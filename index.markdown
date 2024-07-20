@@ -9,3 +9,4 @@ author_profile: true
 ![image to be replaced](/assets/images/chopper.jpg){: .avatar}
 # Portfolio
 This is my portfolio showcasing my games and projects. Check them out below or go to [my work](/mywork).
+bundle exec jekyll serve --watch
