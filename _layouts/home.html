@@ -4,7 +4,7 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "My Favorite Projects" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "My Games" }}</h3>
 
 {% if paginator %}
 {% assign posts = paginator.posts %}
@@ -15,16 +15,16 @@ layout: archive
 {% assign entries_layout = page.entries_layout | default: 'grid' %}
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
-    {% if post.highlight_home and post.categories contains 'work' %}
+    {% if post.highlight_home and post.categories contains 'games' %}
     {% include archive-single.html type=entries_layout %}
     {% endif %}
     {% endfor %}
 </div>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "My Certificates" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "My Projects" }}</h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
-    {% if post.highlight_home and post.categories contains 'Certificates' %}
+    {% if post.highlight_home and post.categories contains 'projects' %}
     {% include archive-single.html type=entries_layout %}
     {% endif %}
     {% endfor %}
