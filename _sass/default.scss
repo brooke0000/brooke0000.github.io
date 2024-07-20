@@ -1,0 +1,40 @@
+body {
+    color: black;
+}
+
+a {
+    color: #696273
+}
+
+a:visited {
+    color: #522073
+}
+
+h3,
+h3.archive__subtitle {
+    clear: both;
+    color: #522073;
+    font-family: "Waiting for the Sunrise";
+    font-size: 1.35em;
+}
+
+
+
+h1,
+h2 {
+    color: #696273;
+    font-family: "Rubik";
+    font-weight: 700;
+}
+
+p,
+.sidebar p,
+.archive__item-title,
+a,
+body {
+    font-family: "Work Sans";
+}
+
+#main {
+    position: relative;
+}
