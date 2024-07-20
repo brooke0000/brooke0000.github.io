@@ -1,8 +1,8 @@
 ---
 layout: posts
 title: My Work
-author_profile: true
 author: Brooke Taylor
+author_profile: true
 ---
 
-some words i guess
+These are some of my games I've created.

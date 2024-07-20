@@ -1,0 +1,11 @@
+Brooke Taylor:
+  name        : "Brooke Taylor"
+  bio         : "Let's talk about code! Reach out via the links below."
+  avatar      : "/assets/images/chopper.jpg/"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://brooke0000.github.io/"
