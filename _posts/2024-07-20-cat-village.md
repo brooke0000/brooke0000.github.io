@@ -7,7 +7,7 @@ highlight_home: true
 tags: projects
 description: This is a text-based game project.
 header:
- overlay_image: "/assets/images/cat_tycoon.jpg/"
+ overlay_image: /assets/images/cat_tycoon.jpg
  teaser: /assets/images/cat_tycoon.jpg
 ---
 

@@ -1,23 +1,33 @@
 technical:
-- title: css
+- title: CSS
   level: beginner
-- title: html
-  level: beginner
-- title: javascript
+- title: JavaScript
   level: intermediate
 - title: C#
   level: intermediate
 - title: C++
   level: beginner
+- title: HTML
+  level: intermediate
+- title: SQL
+  level: intermediate
+- title: React
+  level: beginner
+- title: Jekyll
+  level: beginner
+- title: Ruby
+  level: beginner
+- title: Markdown
+  level: beginner
 
 soft:
-- title: writing
+- title: Writing
   level: beginner
-- title: japanese
+- title: Japanese
   level: beginner
-- title: communication
+- title: Communication
   level: advanced
-- title: problem-solving
+- title: Problem-solving
   level: advanced
-- title: teamwork
+- title: Teamwork
   level: advanced
