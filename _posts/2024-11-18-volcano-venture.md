@@ -11,3 +11,4 @@ header:
  teaser: /assets/images/char.jpg
 ---
 
+This was my game for my university coursework. It's a platformer where you have to jump to the top of a volcano to retrieve an ancient artefact. 
