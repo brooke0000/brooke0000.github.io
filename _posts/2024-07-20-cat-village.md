@@ -7,8 +7,10 @@ highlight_home: true
 tags: projects
 description: This is a text-based game project.
 header:
- overlay_image: "/assets/images/bg.jpg/"
- teaser: https://plus.unsplash.com/premium_photo-1676009619407-18a5121f9687?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+ overlay_image: "/assets/images/cat_tycoon.jpg/"
+ teaser: /assets/images/cat_tycoon.jpg/
 ---
 
-to be continued
+After an evil wizard cat destroyed the cat village, it is your job to help the mayor cat to rebuild it. 
+
+Unlock cats and manage them. Level up their skills and assign them jobs.
